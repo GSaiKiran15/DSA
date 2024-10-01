@@ -14,7 +14,6 @@ class TreeNode:
         while node.parent:
             level += 1
             node = node.parent
-        # print(level)
         return level
 
     def log(self):
