@@ -1,2 +1,3 @@
-
-#     nums1.pop()
+[i] == val:
+    #     output += 1
+    #     num
